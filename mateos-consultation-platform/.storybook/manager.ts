@@ -1,0 +1,2 @@
+// Storybook manager configuration
+export { };

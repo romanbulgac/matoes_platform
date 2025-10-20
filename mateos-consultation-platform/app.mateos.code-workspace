@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Documents/University/Semestru VI/TAP/Proiect"
+		}
+	],
+	"settings": {
+		"typescript.preferences.includePackageJsonAutoImports": "on",
+		"typescript.workspaceSymbols.scope": "allOpenProjects",
+		"typescript.validate.enable": true,
+		"typescript.format.enable": true,
+		"typescript.reportStyleChecksAsWarnings": false,
+		"typescript.disableAutomaticTypeAcquisition": false,
+		"files.associations": {
+			"*.css": "tailwindcss"
+		},
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact",
+			"typescript": "typescriptreact"
+		},
+		"tailwindCSS.includeLanguages": {
+			"typescript": "typescript",
+			"typescriptreact": "typescriptreact"
+		}
+	}
+}
